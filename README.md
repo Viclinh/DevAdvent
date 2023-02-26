@@ -13,6 +13,13 @@ In order to help new hackers on Devpost become more familiar with the site and f
 - Give hackers some tips and tricks when joining hackathons such as where to get resources or how to team up with other hackers
 - Provide instructions about how to submit a project on Devpost.
 
+## Benefits
+- Let hackathon participants know the important role of Devpost in the hackathons
+- Answer frequently asked questions of hackers in timely manner
+- Save many manual hours of work for organizers who have to answer repeatedly same questions to multiple participants
+- Can be used for all hackathons on Devpost. It can be introduced by organizers and Devpost as a tool that can help hackers have better hackathons experience and equip Devpost users with detailed knowledge to participate in hackathons on Devpost.
+- Can generate a better positive hackathon experience for all hackathons participants.
+
 ## How we built it
 We built using HTML, CSS, and Javascript
 
